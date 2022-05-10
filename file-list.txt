@@ -1,0 +1,7 @@
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office Tools
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SSLVPN登录客户端
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Installer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+#C:\Program Files\Microsoft Office\root\Office16
